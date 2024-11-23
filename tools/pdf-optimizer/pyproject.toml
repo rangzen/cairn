@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pdf-optimizer"
+version = "0.1.0"
+description = ""
+authors = ["Cedric L’homme <public@l-homme.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+PyPDF2 = "^3.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
