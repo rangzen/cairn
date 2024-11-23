@@ -14,9 +14,13 @@ This [tool](./tools/pdf-optimizer) was created to help reduce the size of the [W
 
 Here is the list that I mainly use and like.
 
+### Virtual Table Top tools
+
+- <https://kettlewright.com>, free, open-source application for managing characters and parties.
+
 ### Generators
 
-- [RogueCairn](https://www.kesiev.com/roguecairn/), opensource random generator of small worlds designed to be explored
+- [RogueCairn](https://www.kesiev.com/roguecairn/), opensource random generator of small worlds designed to be explored.
 - [donjon](https://donjon.bin.sh), not specific to Cairn.
 
 ### Props
