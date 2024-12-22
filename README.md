@@ -14,15 +14,22 @@ This [tool](./tools/pdf-optimizer) was created to help reduce the size of the [W
 
 Here is the list that I mainly use and like.
 
+### Adventures
+
+[Yochai’s itch.io page](https://itch.io/c/1352509/cairn-adventures) offers various adventures. For essential Cairn adventures, see this [Reddit thread](https://www.reddit.com/r/cairnrpg/comments/1f33auf/what_are_the_essential_cairn_adventures/).
+
 ### Virtual Table Top tools
 
 - <https://kettlewright.com>, free, open-source application for managing characters and parties.
 - [Pocket Cairn](https://brightsdays.github.io/pocket-cairn/), web app to manage a character.
+- [Dungeon Scrawl](https://dungeonscrawl.com), super easy dungeon creator. Check Barrow of the Elf King on Discord, export the map, import in VTT.
 
 ### Generators
 
 - [RogueCairn](https://www.kesiev.com/roguecairn/), opensource random generator of small worlds designed to be explored.
 - [donjon](https://donjon.bin.sh), not specific to Cairn.
+- [One Page Dungeon], can be exported to [Dungeon Scrawl](https://dungeonscrawl.com).
+- [Fantasy Name Generators](https://www.fantasynamegenerators.com)
 
 ### Props
 
